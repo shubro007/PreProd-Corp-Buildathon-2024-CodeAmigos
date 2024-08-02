@@ -1,0 +1,9 @@
+Before using our file ......
+Kindly pip install these libraries just put these commands in the terminal
+1.pip install streamlit
+2.pip install pandas
+3.pip install scikit-learn
+4.pip install hashlib
+
+NOTE---
+app2.py is the main file..
